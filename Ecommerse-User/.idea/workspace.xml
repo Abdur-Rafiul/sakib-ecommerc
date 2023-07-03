@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d180353b-a939-4db4-a052-7ab76411a1dc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Ecommerse-Admin/app/Http/Controllers/AdminLoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecommerse-Admin/app/Http/Controllers/AdminLoginController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerse-Admin/app/Http/Controllers/FavListController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecommerse-Admin/app/Http/Controllers/FavListController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerse-Admin/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecommerse-Admin/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerse-Admin/app/Http/Controllers/ProductOrderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecommerse-Admin/app/Http/Controllers/ProductOrderController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerse-Admin/app/Http/Controllers/ReviewController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecommerse-Admin/app/Http/Controllers/ReviewController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerse-Admin/app/Http/Controllers/SliderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecommerse-Admin/app/Http/Controllers/SliderController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerse-Admin/bootstrap.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerse-Admin/resources/views/Layout/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecommerse-Admin/resources/views/Layout/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerse-Admin/resources/views/Order/ProductOrder.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecommerse-Admin/resources/views/Order/ProductOrder.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerse-Admin/resources/views/Shop/Shop.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecommerse-Admin/resources/views/Shop/Shop.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerse-Admin/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecommerse-Admin/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ecommerse-Admin/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Ecommerse-Admin/routes/web.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EypMQiQ0MbVwZvfxM6oIY9o8mJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "js.linters.configure.manually.selectedeslint": "true",
+    "last_opened_file_path": "D:/Laravel Project/diu-pharmacy/daffodil_pharmacy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\PhpStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d180353b-a939-4db4-a052-7ab76411a1dc" name="Changes" comment="" />
+      <created>1663577629935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663577629935</updated>
+      <workItem from="1663577631342" duration="17178000" />
+      <workItem from="1663663938865" duration="324000" />
+      <workItem from="1663680045915" duration="14980000" />
+      <workItem from="1663765098233" duration="15154000" />
+      <workItem from="1663859975878" duration="2367000" />
+      <workItem from="1663866916200" duration="10120000" />
+      <workItem from="1663943163555" duration="891000" />
+      <workItem from="1664038213784" duration="67000" />
+      <workItem from="1664907458437" duration="4131000" />
+      <workItem from="1665061759808" duration="4555000" />
+      <workItem from="1665174727835" duration="1473000" />
+      <workItem from="1665753118716" duration="1877000" />
+      <workItem from="1665969189982" duration="16000" />
+      <workItem from="1666321522175" duration="8548000" />
+      <workItem from="1666373329843" duration="283000" />
+      <workItem from="1666536061973" duration="5427000" />
+      <workItem from="1666756051349" duration="8915000" />
+      <workItem from="1666952242978" duration="343000" />
+      <workItem from="1667223252007" duration="10879000" />
+      <workItem from="1667395912180" duration="6669000" />
+      <workItem from="1667456684351" duration="5506000" />
+      <workItem from="1667602097251" duration="594000" />
+      <workItem from="1667662872453" duration="450000" />
+      <workItem from="1667793763615" duration="10196000" />
+      <workItem from="1668081487894" duration="608000" />
+      <workItem from="1668083627418" duration="1792000" />
+      <workItem from="1668176041417" duration="5370000" />
+      <workItem from="1668498964649" duration="9896000" />
+      <workItem from="1668682802509" duration="9656000" />
+      <workItem from="1668760152517" duration="6962000" />
+      <workItem from="1668957485568" duration="4301000" />
+      <workItem from="1669309737876" duration="30000" />
+      <workItem from="1674063308223" duration="759000" />
+      <workItem from="1675157114622" duration="8453000" />
+      <workItem from="1679120193550" duration="612000" />
+      <workItem from="1679651482049" duration="622000" />
+      <workItem from="1680969500319" duration="950000" />
+      <workItem from="1681019427609" duration="9397000" />
+      <workItem from="1681109252251" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/ProductDetails/ListByCategory.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/ProductDetails/ProductDetails.js</url>
+          <line>153</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
